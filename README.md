@@ -1,4 +1,4 @@
-# Chapter IV - Construindo interfaces do futuro
+# VMDash
 
 <p align="center">
   <img alt="Construindo interfaces do futuro" src="https://xesque.rocketseat.dev/platform/1617214059963.svg" width="150"  align="center"/>
@@ -6,41 +6,12 @@
     <img alt="Autenticação e autorização" src="https://xesque.rocketseat.dev/platform/1620053517721.svg" width="150" align="center"/>
 </p>
 
-<br>
-
-<p align="center">
-<img alt="vmdash" src="./src/assets/logo.png" width="300" align="center"/>
-</p>
-
-<br>
-
 ## :computer: Sobre o projeto
 
 <hr>
 
-O projeto foi desenvolvido durante o capítulo IV do Ignite da Rocketseat. O objetivo era desenvolver um dashboard usando completamente o Chakra UI, também deixando a aplicação responsiva.
+Um dashboard usando completamente o Chakra UI, deixando a aplicação futurista e responsiva. Nela podemos adicionar usuarios crontrolando seus cache para uma melhor experiência do usuário.
 
-## Imagens
-
-<div>
-
-|                             Tela de Login                             |
-| :-------------------------------------------------------------------: |
-| <img src="./src/assets/login.png" alt="tela de login"  width="600" /> |
-
-|                               Dashboard                               |
-| :-------------------------------------------------------------------: |
-| <img src="./src/assets/dashboard.png" alt="dashboard"  width="900" /> |
-
-|                             Usuários                             |
-| :--------------------------------------------------------------: |
-| <img src="./src/assets/users.png" alt="usuários"  width="900" /> |
-
-|                             Criar Usuário                              |
-| :--------------------------------------------------------------------: |
-| <img src="./src/assets/create-user.png" alt="usuários"  width="900" /> |
-
-</div>
 
 ## :rocket: Techs
 
